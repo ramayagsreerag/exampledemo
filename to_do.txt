@@ -3,3 +3,7 @@
 3. sleep
 4. code
 5. test
+6. repeat
+7. eat
+8. sleep
+9. repeat
